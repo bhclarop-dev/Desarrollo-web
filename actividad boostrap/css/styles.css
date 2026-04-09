@@ -1,0 +1,20 @@
+
+
+.hero {
+  background-color: #e8f0fe;
+  border-bottom: 2px solid #b6ccfe;
+}
+
+
+.card {
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+
+footer {
+  margin-top: 40px;
+}
